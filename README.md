@@ -121,11 +121,12 @@ pip install pandas numpy matplotlib seaborn
 ## Project Structure
 
 ```
-Trader_Performance_Project/
-
-│── Trader_Performance_Analysis.ipynb
-│── historical_data.csv
-│── fear_greed_index.csv
-│── README.md
-│── Report.md
+Trader-Performance-vs-Market-Sentiment-Analysis/
+│
+├── Trader_Performance_Analysis.ipynb
+├── historical_data.csv
+├── fear_greed_index.csv
+├── README.md
+├── Report.md
+├── requirements.txt   
 ```
